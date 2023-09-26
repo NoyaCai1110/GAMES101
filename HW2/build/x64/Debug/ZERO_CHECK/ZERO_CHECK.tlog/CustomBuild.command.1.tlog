@@ -1,0 +1,10 @@
+^D:\GRAPHICS\GAMES101\HW2\CQM_HOMEWORK2\BUILD\CMAKEFILES\B87D85B66FB700C18DAD69F456D4DDA4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Graphics/GAMES101/HW2/cqm_HomeWork2 -BD:/Graphics/GAMES101/HW2/cqm_HomeWork2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Graphics/GAMES101/HW2/cqm_HomeWork2/build/Rasterizer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

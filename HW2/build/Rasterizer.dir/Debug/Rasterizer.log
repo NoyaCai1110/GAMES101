@@ -1,0 +1,18 @@
+﻿  rasterizer.cpp
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(80,32): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(81,32): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(99,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(100,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(130,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(131,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(132,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(133,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(138,39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(138,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(140,68): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(140,65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(141,36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(148,43): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(148,40): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\Graphics\GAMES101\HW2\cqm_HomeWork2\rasterizer.cpp(198,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  Rasterizer.vcxproj -> D:\Graphics\GAMES101\HW2\cqm_HomeWork2\build\Debug\Rasterizer.exe

@@ -1,0 +1,66 @@
+﻿  main.cpp
+D:\Graphics\GAMES101\HW4\code\main.cpp(29,44): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Graphics\GAMES101\HW4\code\main.cpp(29,35): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Graphics\GAMES101\HW4\code\main.cpp(56,51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW4\code\main.cpp(57,36): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Graphics\GAMES101\HW4\code\main.cpp(57,31): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Graphics\GAMES101\HW4\code\main.cpp(67,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW4\code\main.cpp(68,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Graphics\GAMES101\HW4\code\main.cpp(86,66): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Graphics\GAMES101\HW4\code\main.cpp(86,57): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Graphics\GAMES101\HW4\code\main.cpp(88,48): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Graphics\GAMES101\HW4\code\main.cpp(88,39): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xmemory(714,68): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vector(726): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,int&>(_Alloc &,_Objty *const ,int &,int &)”的引用
+          with
+          [
+              _Alloc=std::allocator<cv::Point2f>,
+              _Ty=cv::Point_<float>,
+              _Objty=cv::Point_<float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vector(726): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,int&>(_Alloc &,_Objty *const ,int &,int &)”的引用
+          with
+          [
+              _Alloc=std::allocator<cv::Point2f>,
+              _Ty=cv::Point_<float>,
+              _Objty=cv::Point_<float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vector(744): message : 查看对正在编译的函数 模板 实例化“void std::vector<cv::Point2f,std::allocator<cv::Point2f>>::_Emplace_back_with_unused_capacity<int&,int&>(int &,int &)”的引用
+D:\Graphics\GAMES101\HW4\code\main.cpp(13): message : 查看对正在编译的函数 模板 实例化“void std::vector<cv::Point2f,std::allocator<cv::Point2f>>::emplace_back<int&,int&>(int &,int &)”的引用
+  BezierCurve.vcxproj -> D:\Graphics\GAMES101\HW4\code\build\Debug\BezierCurve.exe
